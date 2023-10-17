@@ -1,2 +1,8 @@
 ﻿  pizza.cpp
-  pizza.vcxproj -> C:\Users\seres\source\repos\pizza\x64\Debug\pizza.exe
+C:\Users\seres\source\repos\pizza\pizza\pizza.cpp(64,29): warning C4305: аргумент: усечение из "int" в "float"
+C:\Users\seres\source\repos\pizza\pizza\pizza.cpp(65,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\seres\source\repos\pizza\pizza\pizza.cpp(67,31): warning C4305: аргумент: усечение из "int" в "float"
+C:\Users\seres\source\repos\pizza\pizza\pizza.cpp(68,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\seres\source\repos\pizza\pizza\pizza.cpp(123,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть C:\Users\seres\source\repos\pizza\x64\Debug\pizza.exe для записи
